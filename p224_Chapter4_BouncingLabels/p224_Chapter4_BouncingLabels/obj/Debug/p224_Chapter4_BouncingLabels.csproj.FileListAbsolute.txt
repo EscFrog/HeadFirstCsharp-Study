@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\bin\Debug\p224_Chapter4_BouncingLabels.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\bin\Debug\p224_Chapter4_BouncingLabels.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\bin\Debug\p224_Chapter4_BouncingLabels.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\obj\Debug\p224_Chapter4_BouncingLabels.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\obj\Debug\p224_Chapter4_BouncingLabels.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\obj\Debug\p224_Chapter4_BouncingLabels.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\obj\Debug\p224_Chapter4_BouncingLabels.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\obj\Debug\p224_Chapter4_BouncingLabels.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p224_Chapter4_BouncingLabels\p224_Chapter4_BouncingLabels\obj\Debug\p224_Chapter4_BouncingLabels.pdb

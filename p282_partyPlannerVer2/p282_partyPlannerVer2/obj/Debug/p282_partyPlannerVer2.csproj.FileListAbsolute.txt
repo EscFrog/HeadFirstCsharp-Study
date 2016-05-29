@@ -1,0 +1,9 @@
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\bin\Debug\p282_partyPlannerVer2.exe.config
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\bin\Debug\p282_partyPlannerVer2.exe
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\bin\Debug\p282_partyPlannerVer2.pdb
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\obj\Debug\p282_partyPlannerVer2.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\obj\Debug\p282_partyPlannerVer2.Form1.resources
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\obj\Debug\p282_partyPlannerVer2.Properties.Resources.resources
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\obj\Debug\p282_partyPlannerVer2.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\obj\Debug\p282_partyPlannerVer2.exe
+E:\VisualStudioProjects\p282_partyPlannerVer2\p282_partyPlannerVer2\obj\Debug\p282_partyPlannerVer2.pdb

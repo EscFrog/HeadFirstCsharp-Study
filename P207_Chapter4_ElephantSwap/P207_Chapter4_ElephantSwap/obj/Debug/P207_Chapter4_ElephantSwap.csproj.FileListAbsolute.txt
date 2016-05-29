@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\bin\Debug\P207_Chapter4_ElephantSwap.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\bin\Debug\P207_Chapter4_ElephantSwap.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\bin\Debug\P207_Chapter4_ElephantSwap.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\obj\Debug\P207_Chapter4_ElephantSwap.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\obj\Debug\P207_Chapter4_ElephantSwap.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\obj\Debug\P207_Chapter4_ElephantSwap.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\obj\Debug\P207_Chapter4_ElephantSwap.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\obj\Debug\P207_Chapter4_ElephantSwap.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P207_Chapter4_ElephantSwap\P207_Chapter4_ElephantSwap\obj\Debug\P207_Chapter4_ElephantSwap.pdb

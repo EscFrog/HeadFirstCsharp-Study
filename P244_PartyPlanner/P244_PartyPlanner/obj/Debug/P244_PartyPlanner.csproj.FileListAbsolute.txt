@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\bin\Debug\P244_PartyPlanner.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\bin\Debug\P244_PartyPlanner.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\bin\Debug\P244_PartyPlanner.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\obj\Debug\P244_PartyPlanner.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\obj\Debug\P244_PartyPlanner.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\obj\Debug\P244_PartyPlanner.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\obj\Debug\P244_PartyPlanner.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\obj\Debug\P244_PartyPlanner.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P244_PartyPlanner\P244_PartyPlanner\obj\Debug\P244_PartyPlanner.pdb

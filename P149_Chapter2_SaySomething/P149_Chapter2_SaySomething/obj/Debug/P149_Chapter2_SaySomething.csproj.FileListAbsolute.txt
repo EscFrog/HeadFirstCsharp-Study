@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\bin\Debug\P149_Chapter2_SaySomething.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\obj\Debug\P149_Chapter2_SaySomething.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\obj\Debug\P149_Chapter2_SaySomething.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\obj\Debug\P149_Chapter2_SaySomething.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\obj\Debug\P149_Chapter2_SaySomething.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\bin\Debug\P149_Chapter2_SaySomething.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\bin\Debug\P149_Chapter2_SaySomething.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\obj\Debug\P149_Chapter2_SaySomething.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P149_Chapter2_SaySomething\P149_Chapter2_SaySomething\obj\Debug\P149_Chapter2_SaySomething.pdb

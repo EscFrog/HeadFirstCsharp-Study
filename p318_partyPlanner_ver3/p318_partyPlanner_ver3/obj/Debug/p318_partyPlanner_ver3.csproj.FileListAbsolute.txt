@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\bin\Debug\p318_partyPlanner_ver3.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\bin\Debug\p318_partyPlanner_ver3.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\bin\Debug\p318_partyPlanner_ver3.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\obj\Debug\p318_partyPlanner_ver3.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\obj\Debug\p318_partyPlanner_ver3.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\obj\Debug\p318_partyPlanner_ver3.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\obj\Debug\p318_partyPlanner_ver3.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\obj\Debug\p318_partyPlanner_ver3.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p318_partyPlanner_ver3\p318_partyPlanner_ver3\obj\Debug\p318_partyPlanner_ver3.pdb

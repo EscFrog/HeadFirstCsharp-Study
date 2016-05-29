@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\bin\Debug\p282_partyPlanner_ver2.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\bin\Debug\p282_partyPlanner_ver2.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\bin\Debug\p282_partyPlanner_ver2.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\obj\Debug\p282_partyPlanner_ver2.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\obj\Debug\p282_partyPlannerVer2.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\obj\Debug\p282_partyPlanner_ver2.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\obj\Debug\p282_partyPlanner_ver2.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\obj\Debug\p282_partyPlanner_ver2.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p282_partyPlanner_ver2\p282_partyPlanner_ver2\obj\Debug\p282_partyPlanner_ver2.pdb

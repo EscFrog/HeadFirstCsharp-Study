@@ -1,0 +1,6 @@
+E:\VisualStudioProjects\juwelTest\juwelTest\bin\Debug\juwelTest.exe.config
+E:\VisualStudioProjects\juwelTest\juwelTest\bin\Debug\juwelTest.exe
+E:\VisualStudioProjects\juwelTest\juwelTest\bin\Debug\juwelTest.pdb
+E:\VisualStudioProjects\juwelTest\juwelTest\obj\Debug\juwelTest.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\juwelTest\juwelTest\obj\Debug\juwelTest.exe
+E:\VisualStudioProjects\juwelTest\juwelTest\obj\Debug\juwelTest.pdb

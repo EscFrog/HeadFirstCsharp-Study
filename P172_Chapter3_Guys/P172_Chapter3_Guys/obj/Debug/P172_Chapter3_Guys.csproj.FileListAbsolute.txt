@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\bin\Debug\P172_Chapter3_Guys.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\bin\Debug\P172_Chapter3_Guys.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\bin\Debug\P172_Chapter3_Guys.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\obj\Debug\P172_Chapter3_Guys.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\obj\Debug\P172_Chapter3_Guys.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\obj\Debug\P172_Chapter3_Guys.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\obj\Debug\P172_Chapter3_Guys.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\obj\Debug\P172_Chapter3_Guys.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P172_Chapter3_Guys\P172_Chapter3_Guys\obj\Debug\P172_Chapter3_Guys.pdb

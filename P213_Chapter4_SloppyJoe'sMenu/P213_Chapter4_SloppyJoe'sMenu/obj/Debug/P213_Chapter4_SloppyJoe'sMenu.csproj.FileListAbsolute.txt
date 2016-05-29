@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\obj\Debug\P213_Chapter4_SloppyJoe'sMenu.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\obj\Debug\P213_Chapter4_SloppyJoe_sMenu.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\obj\Debug\P213_Chapter4_SloppyJoe'sMenu.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\bin\Debug\P213_Chapter4_SloppyJoesMenu.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\bin\Debug\P213_Chapter4_SloppyJoesMenu.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\bin\Debug\P213_Chapter4_SloppyJoesMenu.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\obj\Debug\P213_Chapter4_SloppyJoesMenu.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\obj\Debug\P213_Chapter4_SloppyJoesMenu.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P213_Chapter4_SloppyJoe'sMenu\P213_Chapter4_SloppyJoe'sMenu\obj\Debug\P213_Chapter4_SloppyJoesMenu.pdb

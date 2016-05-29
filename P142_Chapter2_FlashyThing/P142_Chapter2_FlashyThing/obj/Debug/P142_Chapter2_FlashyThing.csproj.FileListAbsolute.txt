@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\bin\Debug\P142_Chapter2_FlashyThing.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\bin\Debug\P142_Chapter2_FlashyThing.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\bin\Debug\P142_Chapter2_FlashyThing.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\obj\Debug\P142_Chapter2_FlashyThing.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\obj\Debug\P142_Chapter2_FlashyThing.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\obj\Debug\P142_Chapter2_FlashyThing.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\obj\Debug\P142_Chapter2_FlashyThing.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\obj\Debug\P142_Chapter2_FlashyThing.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P142_Chapter2_FlashyThing\P142_Chapter2_FlashyThing\obj\Debug\P142_Chapter2_FlashyThing.pdb

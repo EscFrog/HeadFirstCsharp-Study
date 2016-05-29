@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\bin\Debug\P195_Chapter4_payback.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\obj\Debug\P195_Chapter4_payback.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\obj\Debug\P195_Chapter4_payback.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\obj\Debug\P195_Chapter4_payback.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\obj\Debug\P195_Chapter4_payback.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\bin\Debug\P195_Chapter4_payback.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\bin\Debug\P195_Chapter4_payback.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\obj\Debug\P195_Chapter4_payback.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\P195_Chapter4_payback\P195_Chapter4_payback\obj\Debug\P195_Chapter4_payback.pdb

@@ -1,0 +1,6 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\p310_jewelTest\p310_jewelTest\bin\Debug\p310_jewelTest.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\p310_jewelTest\p310_jewelTest\bin\Debug\p310_jewelTest.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p310_jewelTest\p310_jewelTest\bin\Debug\p310_jewelTest.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\p310_jewelTest\p310_jewelTest\obj\Debug\p310_jewelTest.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p310_jewelTest\p310_jewelTest\obj\Debug\p310_jewelTest.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p310_jewelTest\p310_jewelTest\obj\Debug\p310_jewelTest.pdb

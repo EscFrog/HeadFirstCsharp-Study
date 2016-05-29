@@ -1,0 +1,9 @@
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\bin\Debug\p221_Chapter4_HitTheKeys.exe.config
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\bin\Debug\p221_Chapter4_HitTheKeys.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\bin\Debug\p221_Chapter4_HitTheKeys.pdb
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\obj\Debug\p221_Chapter4_HitTheKeys.csprojResolveAssemblyReference.cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\obj\Debug\p221_Chapter4_HitTheKeys.Form1.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\obj\Debug\p221_Chapter4_HitTheKeys.Properties.Resources.resources
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\obj\Debug\p221_Chapter4_HitTheKeys.csproj.GenerateResource.Cache
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\obj\Debug\p221_Chapter4_HitTheKeys.exe
+c:\users\realbigmann\documents\visual studio 2015\Projects\p221_Chapter4_HitTheKeys\p221_Chapter4_HitTheKeys\obj\Debug\p221_Chapter4_HitTheKeys.pdb
