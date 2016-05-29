@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="p323_BeehiveManagementSystem/p323_BeehiveManagementSystem.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="p323_BeehiveManagementSystem/Queen.cs">
+    <Files>
+      <File FileName="p323_BeehiveManagementSystem/Form1.cs" Line="1" Column="1" />
+      <File FileName="p323_BeehiveManagementSystem/Queen.cs" Line="50" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
