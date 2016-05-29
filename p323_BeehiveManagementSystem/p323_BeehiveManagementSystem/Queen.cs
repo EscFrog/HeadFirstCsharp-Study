@@ -13,14 +13,14 @@ namespace p323_BeehiveManagementSystem {
         private Worker[] workers;
         private int shiftNumber = 0;
 
-        private int beeNumber;
+        private int beeNumber; // 몇 번 벌에게 일이 배정되었는지 확인하기 위해 넣은 필드
         public int BeeNumber{
             get { return beeNumber; }
         }
         
         public bool AssignWork(string job, int numberOfShift) {
             for (int i = 0; i < workers.Length; i++) {
-                beeNumber = (i + 1);
+                beeNumber = (i + 1); // 몇 번 벌에게 일이 배정되었는지 확인하기 위해 넣은 코드
                 if (workers[i].DoThisJob(job, numberOfShift))
                     return true;
                 }
