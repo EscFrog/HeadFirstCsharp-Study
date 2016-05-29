@@ -8,3 +8,6 @@ C:\Users\My\Documents\Visual Studio 2015\Projects\p323_BeehiveManagementSystem\p
 C:\Users\My\Documents\Visual Studio 2015\Projects\p323_BeehiveManagementSystem\p323_BeehiveManagementSystem\obj\Debug\p323_BeehiveManagementSystem.csproj.GenerateResource.Cache
 C:\Users\My\Documents\Visual Studio 2015\Projects\p323_BeehiveManagementSystem\p323_BeehiveManagementSystem\obj\Debug\p323_BeehiveManagementSystem.exe
 C:\Users\My\Documents\Visual Studio 2015\Projects\p323_BeehiveManagementSystem\p323_BeehiveManagementSystem\obj\Debug\p323_BeehiveManagementSystem.pdb
+C:\dev\csStudyProject\p323_BeehiveManagementSystem\p323_BeehiveManagementSystem\bin\Debug\p323_BeehiveManagementSystem.exe.config
+C:\dev\csStudyProject\p323_BeehiveManagementSystem\p323_BeehiveManagementSystem\obj\Debug\p323_BeehiveManagementSystem.exe
+C:\dev\csStudyProject\p323_BeehiveManagementSystem\p323_BeehiveManagementSystem\obj\Debug\p323_BeehiveManagementSystem.pdb
