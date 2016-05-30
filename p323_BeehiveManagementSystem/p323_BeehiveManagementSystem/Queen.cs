@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace p323_BeehiveManagementSystem {
-    class Queen {
-        public Queen(Worker[] workers) { // 생성자
+    class Queen : Bee {
+        public Queen(Worker[] workers, double weightMg) : base(weightMg) { // 생성자
             this.workers = workers;
         }
 
@@ -17,7 +17,7 @@ namespace p323_BeehiveManagementSystem {
         public int BeeNumber{
             get { return beeNumber; }
         }
-        
+
         public bool AssignWork(string job, int numberOfShift) {
             for (int i = 0; i < workers.Length; i++) {
                 beeNumber = (i + 1); // 몇 번 벌에게 일이 배정되었는지 확인하기 위해 넣은 코드
@@ -28,9 +28,11 @@ namespace p323_BeehiveManagementSystem {
         }
 
         public string WorkTheNextShift() {
+            double honeyConsumed = HoneyConsumptionRate();
             shiftNumber++;
             string report = "#" + shiftNumber+ " 턴째 보고\r\n\r\n";
             for (int i = 0; i < workers.Length; i++) {
+                honeyConsumed += workers[i].HoneyConsumptionRate();
                 if (workers[i].DidYouFinish()) {
                 report += "일벌 #" + (i + 1) + " 이 일을 마쳤습니다.\r\n";
                 }
@@ -47,6 +49,7 @@ namespace p323_BeehiveManagementSystem {
                     }
                 }
             }
+            report += "이번 턴의 꿀 소비량 : " + honeyConsumed + " units";
             return report;
         }
     }
