@@ -13,8 +13,8 @@ namespace p323_BeehiveManagementSystem {
         private Worker[] workers;
         private int shiftNumber = 0;
 
-        private int beeNumber; // 몇 번 벌에게 일이 배정되었는지 확인하기 위해 넣은 필드
-        public int BeeNumber{
+        private int beeNumber;  // 몇 번 벌에게 일이 배정되었는지 확인하기 위해 넣은 필드
+        public int BeeNumber{   // 속성
             get { return beeNumber; }
         }
 
